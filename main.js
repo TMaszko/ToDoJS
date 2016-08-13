@@ -152,6 +152,7 @@ function Controller ( model , view ) {
 	}	
 
 	init();
+	
 })();
 
 
